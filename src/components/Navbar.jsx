@@ -9,7 +9,7 @@ function Navbar() {
       <div className="p-3 fixed top-0 left-0 right-0 z-10 backdrop-blur-md bg-opacity-30">
         <ul className="flex">
           <li className="mr-4 glow-text text-3xl md:text-4xl xl:text-5xl">
-            <a href="/">N</a>
+            <a href="/">R</a>
           </li>
           <div class="flex ml-auto">
             <li class="mr-6 glow-text">
